@@ -1,16 +1,13 @@
-## Hi there 👋
+Technical professional transitioning into SaaS and support engineering roles. I combine strong customer-facing experience with a growing technical foundation in Python, pytest, Git/GitHub, and basic automation.
 
-<!--
-**Dodorovsky/Dodorovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building a media player project with a professional test suite to strengthen my QA mindset and better understand how real software is tested and maintained.
 
-Here are some ideas to get you started:
+Interested in:
+- Software quality and QA thinking
+- Technical Support & Customer Success in SaaS
+- Testing with pytest (fixtures, parametrization, mocks)
+- Using AI to learn, document, and improve workflows
+- Terminal skills, PowerShell, and Git best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, always building.
+
