@@ -1,6 +1,6 @@
-Self‑taught Python developer transitioning into QA.
-Working on real projects (DK_9000, mini_notes) and learning pytest, refactoring, and state management.
-Curious, detail‑oriented, and focused on building stable, well‑tested software.
+Python developer learning through real projects and constant iteration.
+Currently working on Dual Deck (a DJ deck engine) and other tools exploring UI, audio processing, and real‑time state management.
+Improving in testing, refactoring and GUI development while building software that is simple, stable and easy to understand.
 
 Always learning, always building.
 
